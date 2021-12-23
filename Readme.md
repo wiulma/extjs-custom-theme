@@ -1,1 +1,1 @@
-# BoilerplateSample application
+# Extjs custom theme sample application
